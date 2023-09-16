@@ -1,1 +1,12 @@
 this is my first file
+
+git clone<url>
+cd <repo name>
+
+
+code .
+create a file with some text
+
+git add .
+git commit -m "your comment massage"
+git push
