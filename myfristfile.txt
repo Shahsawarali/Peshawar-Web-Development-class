@@ -10,3 +10,5 @@ create a file with some text
 git add .
 git commit -m "your comment massage"
 git push
+
+i done that in 20 minutes thanks to sir inzamam
